@@ -1,0 +1,14 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="ag-blue" x1="0" y1="0" x2="64" y2="64" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00c6ff"/>
+      <stop offset="1" stop-color="#0072ff"/>
+    </linearGradient>
+  </defs>
+  <!-- Sharp, modern stylized 'A' -->
+  <polygon points="32,8 52,56 44,56 32,28 20,56 12,56" fill="url(#ag-blue)"/>
+  <!-- Digital spark/circuit accent -->
+  <rect x="29" y="18" width="6" height="10" rx="2" fill="#fff"/>
+  <rect x="31" y="12" width="2" height="6" rx="1" fill="#00c6ff"/>
+  <circle cx="32" cy="10" r="2" fill="#fff" stroke="#00c6ff" stroke-width="1.5"/>
+</svg> 
